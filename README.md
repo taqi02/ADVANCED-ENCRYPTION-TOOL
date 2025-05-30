@@ -29,3 +29,5 @@ Throughout the development process, I relied on several reputable sources to gui
 This project allowed me to combine theoretical knowledge with hands-on development to produce a secure and user-friendly encryption tool. Looking ahead, I plan to expand the project by adding a graphical user interface and possibly integrating authenticated encryption modes like AES-GCM to ensure both confidentiality and integrity. Building this tool reinforced my commitment to creating secure applications with a focus on usability and reliability.
 
 *OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/c0702b31-d9ad-471a-93e3-6837170029ea)
